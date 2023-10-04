@@ -70,5 +70,5 @@ fn main() {
     println!("Given {:?}", nums);
     println!("Mean is {}", total / nums.len() as f64);
     println!("Median is {}", med);
-    println!("Mode is/are {:?}", num_mode)
+    println!("Mode(s) is/are {:?}", num_mode)
 }
